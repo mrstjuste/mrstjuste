@@ -1,6 +1,25 @@
-# 💫 About Me:
-I'm currently working on a Project/Product Management Website<br>A fun fact about me is i was a college quarterback at Monroe College<br>
+💫 About Me:
+I'm currently working on a Project/Product Management Website to streamline collaboration and task tracking for teams.
+A fun fact about me is that I was a college quarterback at Monroe College, where I honed discipline, teamwork, and leadership skills that now guide me in my software development projects.
 
+🛠️ I’m currently working on:
+
+Advancing my skills in backend development and data management.
+Expanding the feature set of my current projects to improve user experience.
+🤝 I’m looking to collaborate on:
+
+Projects related to AI, web development, and impactful technologies that solve real-world problems.
+🌱 I’m currently learning:
+
+Advanced machine learning techniques for predictive analytics.
+Full-stack development tools and frameworks to build scalable applications.
+💡 Favorite Projects:
+
+LinkedIn-Inspired Website: Built a high-performance job board leveraging AI for job matching, real-time notifications, and interactive profiles.
+AdamAI: Developed a GPT-powered chatbot platform for businesses, enhancing engagement and reducing operational costs.
+Project Management App: Created a MERN stack application with features like secure authentication, team management, and dynamic dashboards.
+⚡ Fun fact:
+I believe my background in sports has been instrumental in shaping my approach to coding and leading projects with a competitive and resilient spirit.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brian-st-juste-537472259/) 
