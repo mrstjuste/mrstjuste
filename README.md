@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Project/Product Management Website to streamline collaboration and task tracking for teams. A fun fact about me is that I was a college quarterback at Monroe College, where I honed discipline, teamwork, and leadership skills that now guide me in my software development projects.<br> 
+I'm currently working on a Project/Product Management Website to streamline collaboration and task tracking for teams. A fun fact about me is that I was a college quarterback at Monroe University, where I honed discipline, teamwork, and leadership skills that now guide me in my software development projects.<br> 
 
 # I’m currently working on:
 Advancing my skills in backend development and data management. Expanding the feature set of my current projects to improve user experience. 🤝 I’m looking to collaborate on:<br><br>Projects related to AI, web development, and impactful technologies that solve real-world problems. 
